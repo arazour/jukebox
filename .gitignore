@@ -27,4 +27,5 @@ testdb.trace.db
 
 .idea/**
 jukebox-fe/node_modules/**
+jukebox-fe/.eslintcache
 /jukebox-fe/node_modules/
