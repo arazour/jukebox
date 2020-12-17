@@ -8,9 +8,9 @@ import org.springframework.boot.runApplication
 @SpringBootApplication
 @OpenAPIDefinition(
 	info = Info(
-		title = "Carbon Dioxide Measurement Application",
-		version = "1.0",
-		description = "Service capable of collecting data from sensors and alert if the CO2 concentrations reach critical levels"
+		title = "Jukebox",
+		version = "ny.1.0",
+		description = "Service that let's you listen to music together"
 	)
 )
 open class JukeboxApplication

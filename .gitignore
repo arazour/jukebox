@@ -25,4 +25,4 @@ hs_err_pid*
 testdb.mv.db
 testdb.trace.db
 
-.idea
+.idea/**
