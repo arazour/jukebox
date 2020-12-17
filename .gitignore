@@ -26,4 +26,5 @@ testdb.mv.db
 testdb.trace.db
 
 .idea/**
-**/node_modules/**
+jukebox-fe/node_modules/**
+/jukebox-fe/node_modules/
