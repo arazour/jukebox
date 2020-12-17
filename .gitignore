@@ -26,3 +26,4 @@ testdb.mv.db
 testdb.trace.db
 
 .idea/**
+**/node_modules/**
