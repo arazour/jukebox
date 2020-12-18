@@ -25,7 +25,10 @@ hs_err_pid*
 testdb.mv.db
 testdb.trace.db
 
+target
 .idea/**
 jukebox-fe/node_modules/**
 jukebox-fe/.eslintcache
-/jukebox-fe/node_modules/
+**/node_modules
+/jukebox.iml
+/src/main/resources/static/howler.js/examples/player/audio

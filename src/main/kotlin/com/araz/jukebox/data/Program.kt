@@ -1,6 +1,5 @@
 package com.araz.jukebox.data
 
-import java.time.LocalDateTime
-import java.time.ZonedDateTime
+import java.util.*
 
-data class Program(var id: Long? = null, var time: LocalDateTime = LocalDateTime.now(), var song: Song? = null)
+data class Program(var id: Long? = null, var time: Date? = null, var song: Song? = null)
